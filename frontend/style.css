@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(49, 46, 46);
+    color: rgb(88, 150, 151);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+}
+
+div{
+    font-weight: 400;
+    font-size: 80pt;
+}
